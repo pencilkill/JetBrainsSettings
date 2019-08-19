@@ -1,0 +1,7 @@
+<templateSet group="Bash">
+  <template name="bash" value="#!/bin/bash" description="bashbang line" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Bash" value="true" />
+    </context>
+  </template>
+</templateSet>

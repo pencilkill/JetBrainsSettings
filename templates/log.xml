@@ -1,0 +1,25 @@
+<templateSet group="log">
+  <template name="log4j" value="private static final org.apache.log4j.Logger logger = org.apache.log4j.Logger.getLogger($CLASS_NAME$.class);" description="LOGGER" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="" defaultValue="" alwaysStopAt="false" />
+  </template>
+  <template name="slf4j" value="private static final org.slf4j.Logger logger = org.slf4j.LoggerFactory.getLogger($CLASS_NAME$.class);" description="LOGGER" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="signature" value="$FORMAT$" description="Print method simple parameters signature" toReformat="false" toShortenFQNames="true">
+    <variable name="FORMAT" expression="groovyScript(&quot;'\&quot;' + _1 + '::' + _2 + '() ' + '[' + _3.collect { it + ' = {}'}.join(', ') + ']' + '\&quot;, ' + _3.collect { it }.join(', ')&quot;, className(), methodName(), methodParameters())" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="mn" value="&quot;$CLASS_NAME$::$METHOD_NAME$() $END$&quot;" description="Method Name" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="false" />
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STRING" value="true" />
+    </context>
+  </template>
+</templateSet>

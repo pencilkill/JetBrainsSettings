@@ -5,6 +5,8 @@
     <option name="PROXY_PORT" value="8080" />
     <option name="PROXY_AUTHENTICATION" value="true" />
     <option name="KEEP_PROXY_PASSWORD" value="true" />
-    <option name="PROXY_EXCEPTIONS" value="*.athuawei.com;*.hic.cloud;*.hisilicon.*;*.huawei.com;*.huaweimarine.com;*.huaweimossel.com;*.huaweistatic.com;*.huaweisymantec.com;*.hw3static.com;*.hwht.com;*.hwtelcloud.com;*.hwtrip.com;*.hyhlloan.com;*.inhuawei.com;*.pinjiantrip.com;*.smartcom.cc;*cn-north-5-console.huaweicloud.com;*cn-north-5.myhuaweicloud.com;*cn-north-6.myhuaweicloud.com;10.*;100.10*;100.11*;100.120.*;100.121.*;100.122.*;100.123.*;100.124.*;100.125.*;100.126.*;100.64.*;100.65.*;100.66.*;100.67.*;100.68.*;100.69.*;100.7*;100.8*;100.9*;127.0.0.1;172.16.*;172.17.*;172.18.*;172.19.*;172.20.*;172.21.*;172.22.*;172.23.*;172.24.*;172.25.*;172.26.*;172.27.*;172.28.*;172.29.*;172.30.*;172.31.*;172.32.*;192.168.*;bbs*.huaweidevice.com;rms*.huawei.com;support.huaweidevice.com;vplus.huawei.com;vportal.huawei.com;www*.huaweidevice.com" />
+    <option name="PROXY_EXCEPTIONS" value="meeting.huawei.com;*.athuawei.com;*.hisilicon.*;*.hisilicon.com;*.huawei.com;*.huaweimarine.com;*.huaweimossel.com;*.huaweimossel.com.cn;*.huaweistatic.com;*.huaweisymantec.com;*.hw3static.com;*.hwht.cn;*.hwht.com;*.hwtrip.com;*.hyhlloan.com;*.inhuawei.com;*.pinjiantrip.com;*.smartcom.cc;10.*;100.10*;100.11*;100.120.*;100.121.*;100.122.*;100.123.*;100.124.*;100.125.*;100.126.*;100.64.*;100.65.*;100.66.*;100.67.*;100.68.*;100.69.*;100.7*;100.8*;100.9*;127.0.0.1;172.16.*;172.17.*;172.18.*;172.19.*;172.20.*;172.21.*;172.22.*;172.23.*;172.24.*;172.25.*;172.26.*;172.27.*;172.28.*;172.29.*;172.30.*;172.31.*;172.32.*;192.168.*;bbs*.huaweidevice.com;support.huaweidevice.com;vplus.huawei.com;vportal.huawei.com;www*.huaweidevice.com" />
+    <option name="USE_PAC_URL" value="true" />
+    <option name="PAC_URL" value="http://proxy.huawei.com:8080" />
   </component>
 </application>
