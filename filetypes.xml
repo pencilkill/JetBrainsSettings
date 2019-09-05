@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="truststore" type="PLAIN_TEXT" />
+      <mapping ext="properties_local" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="gbk" type="PLAIN_TEXT" />
