@@ -3,7 +3,7 @@
     <DockerRegistry email="songdeqiang2@huawei.com">
       <option name="address" value="swr.cn-north-5.myhuaweicloud.com" />
       <option name="name" value="swr.cn-north-5.myhuaweicloud.com" />
-      <option name="username" value="cn-north-5@UTU75HS6GGQKI1QKNRIV" />
+      <option name="username" value="cn-north-5@AUVNEZFTEIXTNF8SUPAE" />
     </DockerRegistry>
   </component>
 </application>
