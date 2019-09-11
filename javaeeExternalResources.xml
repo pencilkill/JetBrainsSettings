@@ -2,6 +2,8 @@
   <component name="ExternalResourceManagerImpl">
     <resource url="http://mybatis.org/dtd/mybatis-3-mapper.dtd" location="$USER_HOME$/.IdeaIC2019.1/system/extResources/b36fadae_mybatis-3-mapper.dtd" />
     <resource url="http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd" location="$USER_HOME$/.IdeaIC2019.1/system/extResources/cf63db72_mybatis-generator-config_1_0.dtd" />
+    <resource url="http://www.springframework.org/schema/redis/spring-redis-1.0.xsd" location="$USER_HOME$/.IntelliJIdea2019.2/system/extResources/b974184d_spring-redis-1.0.xsd" />
+    <resource url="https://www.springframework.org/schema/tool/spring-tool.xsd" location="$USER_HOME$/.IntelliJIdea2019.2/system/extResources/5b4b7adc_spring-tool.xsd" />
     <ignored-resource url="http://io.mycat/" />
     <ignored-resource url="http://maven.apache.org/ASSEMBLY/2.0.0" />
     <ignored-resource url="http://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.0" />
