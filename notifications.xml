@@ -5,5 +5,6 @@
     <notification groupId="JRebel sticky" displayType="STICKY_BALLOON" shouldLog="false" />
     <notification groupId="Maven Import" displayType="NONE" shouldLog="false" />
     <notification groupId="Maven: non-managed pom.xml" displayType="NONE" shouldLog="false" />
+    <notification groupId="Spring Configuration Check" displayType="STICKY_BALLOON" shouldLog="false" />
   </component>
 </application>
