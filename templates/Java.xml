@@ -26,4 +26,19 @@
       <option name="KOTLIN_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="trc" value="try {&#10;    $END$&#10;} catch (Throwable e) {&#10;    //&#10;}" shortcut="SPACE" description="Try catch statement" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="trcf" value="try {&#10;    $END$&#10;} catch (Throwable e) {&#10;    //&#10;} final {&#10;    //&#10;}" shortcut="SPACE" description="Try catch final statement" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="troc" value="try ($END$) {&#10;    &#10;} catch (Throwable e) {&#10;    //&#10;}" shortcut="SPACE" description="Try autoclose catch statement" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
