@@ -5,6 +5,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="gz" type="Native" />
       <mapping pattern="kubectl-po" type="PLAIN_TEXT" />
+      <mapping pattern="kubectl-jdwp" type="PLAIN_TEXT" />
       <mapping pattern="" type="PLAIN_TEXT" />
       <mapping ext="repo" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
