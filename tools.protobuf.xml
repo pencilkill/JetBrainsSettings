@@ -1,0 +1,9 @@
+<application>
+  <component name="ProtobufSettings">
+    <option name="includePaths">
+      <list>
+        <option value="D:/Protoc" />
+      </list>
+    </option>
+  </component>
+</application>
