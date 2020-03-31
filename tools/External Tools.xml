@@ -1,8 +1,8 @@
 <toolSet name="External Tools">
-  <tool name="mvn-version" description="Maven version plugin" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="mvn-version" description="Maven version plugin" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="D:\Maven\bin\mvn.cmd" />
-      <option name="PARAMETERS" value="versions:set -DgenerateBackupPoms=false -DnewVersion=$Prompt$" />
+      <option name="COMMAND" value="mvn" />
+      <option name="PARAMETERS" value="versions:set -DgenerateBackupPoms=false -DnewVersion=$Prompt$ -DprocessAllModules -U" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
