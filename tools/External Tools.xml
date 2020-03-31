@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="D:\Maven\bin\mvn.cmd" />
       <option name="PARAMETERS" value="versions:set -DgenerateBackupPoms=false -DnewVersion=$Prompt$" />
-      <option name="WORKING_DIRECTORY" value="$ModuleFileDir$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
 </toolSet>
