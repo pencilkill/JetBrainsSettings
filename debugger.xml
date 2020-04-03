@@ -80,6 +80,12 @@
       <option name="INCLUDE" value="true" />
     </filter>
   </component>
+  <component name="NodeRendererSettings">
+    <Renderer ID="ClassRenderer">
+      <option name="SHOW_STATIC" value="true" />
+      <option name="SHOW_STATIC_FINAL" value="true" />
+    </Renderer>
+  </component>
   <component name="ThreadsViewSettings">
     <option name="SHOW_THREAD_GROUPS" value="true" />
     <option name="SHOW_ARGUMENTS_TYPES" value="true" />
