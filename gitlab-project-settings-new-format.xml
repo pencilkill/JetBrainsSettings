@@ -1,0 +1,13 @@
+<application>
+  <component name="SettingsState">
+    <option name="gitlabServers">
+      <list>
+        <GitlabServer>
+          <option name="apiToken" value="4CBy79sxtP13YHtsi34d" />
+          <option name="apiUrl" value="https://git.huawei.com/" />
+          <option name="repositoryUrl" value="git.huawei.com" />
+        </GitlabServer>
+      </list>
+    </option>
+  </component>
+</application>
