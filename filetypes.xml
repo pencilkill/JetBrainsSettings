@@ -6,6 +6,7 @@
       <mapping ext="gz" type="Native" />
       <mapping pattern="kubectl-xargs" type="PLAIN_TEXT" />
       <mapping pattern="kubectl-po" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="kubectl-jdwp" type="PLAIN_TEXT" />
       <mapping pattern="" type="PLAIN_TEXT" />
       <mapping ext="repo" type="PLAIN_TEXT" />
