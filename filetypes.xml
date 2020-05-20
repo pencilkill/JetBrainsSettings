@@ -12,8 +12,10 @@
       <mapping ext="repo" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="properties_local" type="PLAIN_TEXT" />
       <mapping ext="exclude" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="enc" type="PLAIN_TEXT" />
       <mapping ext="0_232" type="PLAIN_TEXT" />
       <mapping ext="gbk" type="PLAIN_TEXT" />
