@@ -1,4 +1,5 @@
 <code_scheme name="im_code_format" version="173">
+  <option name="RIGHT_MARGIN" value="999" />
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <JavaCodeStyleSettings>
     <option name="ANNOTATION_PARAMETER_WRAP" value="1" />
