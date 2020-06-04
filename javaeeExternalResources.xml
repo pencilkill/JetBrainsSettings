@@ -1,5 +1,6 @@
 <application>
   <component name="ExternalResourceManagerImpl">
+    <resource url="http://maven.apache.org/xsd/assembly-2.1.0.xsd" location="$USER_HOME$/.IntelliJIdea2019.2/system/extResources/dce13267_assembly-2.1.0.xsd" />
     <resource url="http://mybatis.org/dtd/mybatis-3-mapper.dtd" location="$USER_HOME$/.IdeaIC2019.1/system/extResources/b36fadae_mybatis-3-mapper.dtd" />
     <resource url="http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd" location="$USER_HOME$/.IdeaIC2019.1/system/extResources/cf63db72_mybatis-generator-config_1_0.dtd" />
     <resource url="http://www.springframework.org/schema/redis/spring-redis-1.0.xsd" location="$USER_HOME$/.IntelliJIdea2019.2/system/extResources/b974184d_spring-redis-1.0.xsd" />
@@ -7,6 +8,7 @@
     <ignored-resource url="http://io.mycat/" />
     <ignored-resource url="http://maven.apache.org/ASSEMBLY/2.0.0" />
     <ignored-resource url="http://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.0" />
+    <ignored-resource url="http://maven.apache.org/xsd/assembly-2.1.0.xsd" />
     <ignored-resource url="https://www.huaweicloud.com/" />
   </component>
 </application>
