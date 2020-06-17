@@ -1,0 +1,7 @@
+<templateSet group="other">
+  <template name="fh" value="/**&#10; * &#10; * Notes: N/A &#10; * &#10; * @author ${USER}&#10; * @since ${DATE}&#10; */&#10; " description="Insert file header" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
