@@ -42,8 +42,8 @@
     </context>
   </template>
   <template name="fh" value="/**&#10; * &#10; * Notes: N/A &#10; * &#10; * @author $USER$&#10; * @since $DATE$&#10; */" description="Insert file header" toReformat="true" toShortenFQNames="true">
-    <variable name="USER" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="DATE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DATE" expression="date(&quot;Y-MM-d&quot;)" defaultValue="" alwaysStopAt="false" />
+    <variable name="USER" expression="user()" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
