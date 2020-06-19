@@ -4,16 +4,16 @@
     <option name="rules">
       <list>
         <RuleStatisticsItem>
-          <option name="checkCount" value="1" />
-          <option name="checkDefectNum" value="2" />
+          <option name="checkCount" value="2" />
+          <option name="checkDefectNum" value="4" />
           <option name="criterionDescription" value="规则2.1 Javadoc用于每一个public或protected修饰的元素" />
           <option name="criterionMajorType" value="2.注释" />
           <option name="criterionMinorType" value="规则2.1" />
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="1" />
-          <option name="checkDefectNum" value="1" />
+          <option name="checkCount" value="2" />
+          <option name="checkDefectNum" value="2" />
           <option name="criterionDescription" value="规则3.2 一个源文件按顺序包含版权、package、import、顶层类，且用空行分隔" />
           <option name="criterionMajorType" value="3.排版格式" />
           <option name="criterionMinorType" value="规则3.2" />
@@ -28,24 +28,24 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="1" />
-          <option name="checkDefectNum" value="1" />
+          <option name="checkCount" value="2" />
+          <option name="checkDefectNum" value="2" />
           <option name="criterionDescription" value="建议3.6 减少不必要的空行，保持代码紧凑" />
           <option name="criterionMajorType" value="3.排版格式" />
           <option name="criterionMinorType" value="建议3.6" />
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="1" />
-          <option name="checkDefectNum" value="1" />
+          <option name="checkCount" value="2" />
+          <option name="checkDefectNum" value="2" />
           <option name="criterionDescription" value="建议5.5 对于返回数组或者容器的方法，应返回长度为0的数组或者容器，代替返回null" />
           <option name="criterionMajorType" value="5.方法" />
           <option name="criterionMinorType" value="建议5.5" />
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="1" />
-          <option name="checkDefectNum" value="2" />
+          <option name="checkCount" value="2" />
+          <option name="checkDefectNum" value="4" />
           <option name="criterionDescription" value="建议8.5.3 优先使用泛型集合，而不是数组" />
           <option name="criterionMajorType" value="8.编程实践" />
           <option name="criterionMinorType" value="建议8.5.3" />
