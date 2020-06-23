@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\MBServer\src\main\java\com\huawei\espace\mbserver\proxy\tls\service\loginserver\handler\UserSessionHandler.java [MBServer]'" />
-    <option name="defaultScopeName" value="File '...\MBServer\src\main\java\com\huawei\espace\mbserver\proxy\tls\service\loginserver\handler\UserSessionHandler.java [MBServer]'" />
+    <option name="customScope" value="Directory '...'" />
+    <option name="defaultScopeName" value="Directory '...'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\MBServer\src\main\java\com\huawei\espace\mbserver\proxy\tls\service\loginserver\handler\UserSessionHandler.java [MBServer]'" />
+    <option name="SEARCH_SCOPE" value="Directory '...'" />
   </component>
 </application>
