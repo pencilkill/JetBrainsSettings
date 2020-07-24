@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\MBInterface\src\main\java\com\huawei\espace\mbserver\config\CanaryManager.java [MBInterface]'" />
-    <option name="defaultScopeName" value="File '...\MBInterface\src\main\java\com\huawei\espace\mbserver\config\CanaryManager.java [MBInterface]'" />
-    <option name="SEARCH_SCOPE" value="File '...\MBInterface\src\main\java\com\huawei\espace\mbserver\config\CanaryManager.java [MBInterface]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
