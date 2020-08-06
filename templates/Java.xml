@@ -48,4 +48,9 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="pre" value="&#10;* &lt;pre&gt;&#10;* {@code&#10;* &#10;* }&#10;* &lt;/pre&gt;&#10;" description="Javadoc pre code" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_COMMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
