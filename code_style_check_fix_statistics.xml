@@ -20,35 +20,51 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="1" />
-          <option name="checkDefectNum" value="1" />
+          <option name="checkCount" value="2" />
+          <option name="checkDefectNum" value="2" />
           <option name="criterionDescription" value="规则2.1 Javadoc用于每一个public或protected修饰的元素" />
           <option name="criterionMajorType" value="2.注释" />
           <option name="criterionMinorType" value="规则2.1" />
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="7" />
-          <option name="checkDefectNum" value="7" />
+          <option name="checkCount" value="11" />
+          <option name="checkDefectNum" value="11" />
           <option name="criterionDescription" value="规则7.4 日志的记录，不要使用 System.out 与 System.err 进行控制台打印，进行处理应使用Facade模式的日志框架（例如：产品自研的，或第三方Slf4j等）" />
           <option name="criterionMajorType" value="7.异常和日志" />
           <option name="criterionMinorType" value="规则7.4" />
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="7" />
-          <option name="checkDefectNum" value="7" />
+          <option name="checkCount" value="11" />
+          <option name="checkDefectNum" value="15" />
           <option name="criterionDescription" value="建议8.5.3 优先使用泛型集合，而不是数组" />
           <option name="criterionMajorType" value="8.编程实践" />
           <option name="criterionMinorType" value="建议8.5.3" />
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="1" />
-          <option name="checkDefectNum" value="3" />
+          <option name="checkCount" value="4" />
+          <option name="checkDefectNum" value="9" />
           <option name="criterionDescription" value="规则2.5 方法命名无法表达的信息，必须加注释辅助说明; 禁止空有格式的方法头" />
           <option name="criterionMajorType" value="2.注释" />
           <option name="criterionMinorType" value="规则2.5" />
+          <option name="criterionType" value="华为Java语言通用编程规范" />
+        </RuleStatisticsItem>
+        <RuleStatisticsItem>
+          <option name="checkCount" value="2" />
+          <option name="checkDefectNum" value="2" />
+          <option name="criterionDescription" value="建议3.6 减少不必要的空行，保持代码紧凑" />
+          <option name="criterionMajorType" value="3.排版格式" />
+          <option name="criterionMinorType" value="建议3.6" />
+          <option name="criterionType" value="华为Java语言通用编程规范" />
+        </RuleStatisticsItem>
+        <RuleStatisticsItem>
+          <option name="checkCount" value="2" />
+          <option name="checkDefectNum" value="2" />
+          <option name="criterionDescription" value="建议3.7 单个空格应该分隔关键字与其后的左括号、与其前面的右大括号，出现在任何二元/三元运算符/类似运算符的两侧，,:;或类型转换结束括号)之后使用空格。行末和空行不能有空格space" />
+          <option name="criterionMajorType" value="3.排版格式" />
+          <option name="criterionMinorType" value="建议3.7" />
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
       </list>
