@@ -3,8 +3,6 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
-      <removed_mapping ext="gz" type="Gzip" />
-      <mapping ext="gz" type="Native" />
       <mapping pattern="META-INF" type="PLAIN_TEXT" />
       <mapping pattern="kubectl-xargs" type="PLAIN_TEXT" />
       <mapping pattern="kubectl-po" type="PLAIN_TEXT" />
