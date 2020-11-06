@@ -53,4 +53,11 @@
       <option name="JAVA_COMMENT" value="true" />
     </context>
   </template>
+  <template name="swi" value="switch ($VAR$) {&#10;    case $ENUM$: {&#10;        //&#10;        break;&#10;    }&#10;    default: {&#10;        //&#10;    }&#10;}" shortcut="SPACE" description="Switch statement" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ENUM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
