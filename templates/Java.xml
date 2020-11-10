@@ -60,4 +60,10 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="case" value="case $ENUM$: {&#10;    //&#10;    break;&#10;}" shortcut="SPACE" description="Case statement" toReformat="true" toShortenFQNames="true">
+    <variable name="ENUM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
