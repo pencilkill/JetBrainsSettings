@@ -17,5 +17,10 @@
       <display-name>Connection.prepareStatement (java.sql)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepareStatement").withParameters("java.lang.String").definedInClass("java.sql.Connection"))]]></place>
     </injection>
+    <injection language="SpEL" injector-id="java">
+      <display-name>Spring @EventListener</display-name>
+      <place disabled="true"><![CDATA[psiMethod().withName("condition").withParameters().definedInClass("org.springframework.context.event.EventListener")]]></place>
+      <place><![CDATA[psiMethod().withName("condition").withParameters().definedInClass("org.springframework.transaction.event.TransactionalEventListener")]]></place>
+    </injection>
   </component>
 </application>
