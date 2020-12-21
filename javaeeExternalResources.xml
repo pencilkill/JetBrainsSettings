@@ -8,6 +8,7 @@
     <ignored-resource url="http://io.mycat/" />
     <ignored-resource url="http://maven.apache.org/ASSEMBLY/2.0.0" />
     <ignored-resource url="http://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.0" />
+    <ignored-resource url="http://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.2" />
     <ignored-resource url="http://maven.apache.org/xsd/assembly-2.1.0.xsd" />
     <ignored-resource url="https://www.huaweicloud.com/" />
   </component>
