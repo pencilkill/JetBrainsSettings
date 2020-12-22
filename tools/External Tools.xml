@@ -1,15 +1,15 @@
 <toolSet name="External Tools">
-  <tool name="mvn-project-version" description="Maven release version" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="mvn-project-version" description="Maven version set" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="D:\Maven\bin\mvn.cmd" />
-      <option name="PARAMETERS" value="release:update-versions -DdevelopmentVersion=$Prompt$" />
+      <option name="PARAMETERS" value="versions:set -DnewVersion=$Prompt$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
-  <tool name="mvn-module-version" description="Maven release version" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="mvn-module-version" description="Maven version set" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="D:\Maven\bin\mvn.cmd" />
-      <option name="PARAMETERS" value="release:update-versions -DdevelopmentVersion=$Prompt$" />
+      <option name="PARAMETERS" value="versions:set -DnewVersion=$Prompt$" />
       <option name="WORKING_DIRECTORY" value="$ModuleFileDir$" />
     </exec>
   </tool>
