@@ -85,6 +85,9 @@
       <option name="SHOW_STATIC" value="true" />
       <option name="SHOW_STATIC_FINAL" value="true" />
     </Renderer>
+    <Renderer ID="PrimitiveRenderer">
+      <option name="SHOW_HEX_VALUE" value="true" />
+    </Renderer>
   </component>
   <component name="ThreadsViewSettings">
     <option name="SHOW_THREAD_GROUPS" value="true" />
@@ -102,11 +105,6 @@
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
-        </configuration>
-      </debugger>
-      <debugger id="kotlin_debugger">
-        <configuration>
-          <option name="DEBUG_IS_FILTER_FOR_STDLIB_ALREADY_ADDED" value="true" />
         </configuration>
       </debugger>
     </debuggers>
