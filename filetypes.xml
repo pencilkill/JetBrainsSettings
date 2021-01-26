@@ -24,10 +24,10 @@
       <mapping ext="exclude" type="PLAIN_TEXT" />
       <mapping ext="0_232" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
-      <mapping ext="pb" type="PLAIN_TEXT" />
       <mapping ext="gbk" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="chm" approved="true" type="Native" />
+      <removed_mapping ext="pb" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
