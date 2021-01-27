@@ -10,7 +10,6 @@
       <mapping pattern="fuxi_generate" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="kubectl-po" type="PLAIN_TEXT" />
-      <mapping pattern="archive" type="PLAIN_TEXT" />
       <mapping pattern="kubectl-jdwp" type="PLAIN_TEXT" />
       <mapping pattern="" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
