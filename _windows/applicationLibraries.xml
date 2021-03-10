@@ -5,7 +5,9 @@
         <root url="file://D:/Workplace/CloudTest/ecstest/AW" />
       </CLASSES>
       <JAVADOC />
-      <SOURCES />
+      <SOURCES>
+        <root url="jar://$APPLICATION_PLUGINS_DIR$/protobuf-jetbrains-plugin/lib/protobuf-java-3.6.1-sources.jar!/" />
+      </SOURCES>
     </library>
     <library name="Python 2.7 interpreter library">
       <CLASSES>
