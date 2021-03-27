@@ -16,7 +16,7 @@
   <tool name="kubefwd-maa" description="Kubefwd welink-im-maa" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="kubefwd.cmd" />
-      <option name="PARAMETERS" value=" -a welink-im-maa -c L3_Alpha.json" />
+      <option name="PARAMETERS" value="-a welink-im-maa -c L3_Alpha.json" />
       <option name="WORKING_DIRECTORY" value="D:/Kubelet" />
     </exec>
   </tool>
