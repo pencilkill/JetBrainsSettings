@@ -34,5 +34,38 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
+    <library name="Python 3.9 (welinkim-test) interpreter library">
+      <CLASSES>
+        <root url="file://D:/Workplace/welinkim-test/python3/DLLs" />
+        <root url="file://D:/Workplace/welinkim-test/python3/Lib" />
+        <root url="file://D:/Workplace/welinkim-test/python3" />
+        <root url="file://D:/Workplace/welinkim-test/venv" />
+        <root url="file://D:/Workplace/welinkim-test/venv/Lib/site-packages" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.3/python_stubs/-1524843471" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.9" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://D:/Workplace/welinkim-test/python3/DLLs" />
+        <root url="file://D:/Workplace/welinkim-test/python3/Lib" />
+        <root url="file://D:/Workplace/welinkim-test/python3" />
+        <root url="file://D:/Workplace/welinkim-test/venv" />
+        <root url="file://D:/Workplace/welinkim-test/venv/Lib/site-packages" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.3/python_stubs/-1524843471" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.9" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
   </component>
 </application>
