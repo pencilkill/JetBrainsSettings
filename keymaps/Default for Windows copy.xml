@@ -2,8 +2,10 @@
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
+  <action id="HiCode.Athena.SearchQuestion" />
   <action id="HiCode.Cmetrics" />
   <action id="HiCode.CodeCheck-FindBugs" />
+  <action id="HiCode.CodeStyleCheck.CheckAndAutoFix" />
   <action id="HiCode.Login" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
