@@ -66,4 +66,10 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="ion" value="if (Objects.nonNull($VAR$)) {&#10;$END$&#10;}" description="Insert 'if Objects.nonNull' statement" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>

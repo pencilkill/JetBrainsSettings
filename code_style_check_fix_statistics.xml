@@ -1,6 +1,6 @@
 <application>
   <component name="StatisticsStorage">
-    <option name="date" value="20201120" />
+    <option name="date" value="20210402" />
     <option name="rules">
       <list>
         <RuleStatisticsItem>
@@ -20,8 +20,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="1" />
-          <option name="checkDefectNum" value="2" />
+          <option name="checkCount" value="3" />
+          <option name="checkDefectNum" value="4" />
           <option name="criterionDescription" value="建议8.6.2 Java 8使用Optional代替null作为返回值或者可能的缺失值" />
           <option name="criterionMajorType" value="8.编程实践" />
           <option name="criterionMinorType" value="建议8.6.2" />
@@ -116,8 +116,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="5" />
-          <option name="checkDefectNum" value="71" />
+          <option name="checkCount" value="7" />
+          <option name="checkDefectNum" value="73" />
           <option name="criterionDescription" value="规则1.2 所有标识符仅使用ASCII字母和数字，名称由正则表达式匹配 \w{2,40}" />
           <option name="criterionMajorType" value="1.命名" />
           <option name="criterionMinorType" value="规则1.2" />
@@ -180,8 +180,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="3" />
-          <option name="checkDefectNum" value="9" />
+          <option name="checkCount" value="5" />
+          <option name="checkDefectNum" value="11" />
           <option name="criterionDescription" value="规则2.6 Javadoc注释正文与其下的各个tag之间加1个空行；类级成员注释与上面的代码之间有一个空行；注释符与注释内容间要有1空格；右置注释与前面代码至少1空格" />
           <option name="criterionMajorType" value="2.注释" />
           <option name="criterionMinorType" value="规则2.6" />
@@ -233,6 +233,14 @@
           <option name="criterionDescription" value="规则2.3 Javadoc标签与内容间只1个空格,按@param，@return，@throws顺序排列" />
           <option name="criterionMajorType" value="2.注释" />
           <option name="criterionMinorType" value="规则2.3" />
+          <option name="criterionType" value="华为Java语言通用编程规范" />
+        </RuleStatisticsItem>
+        <RuleStatisticsItem>
+          <option name="checkCount" value="2" />
+          <option name="checkDefectNum" value="2" />
+          <option name="criterionDescription" value="规则3.2 一个源文件按顺序包含版权、package、import、顶层类，且用空行分隔" />
+          <option name="criterionMajorType" value="3.排版格式" />
+          <option name="criterionMinorType" value="规则3.2" />
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
       </list>
