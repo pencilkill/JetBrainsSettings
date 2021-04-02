@@ -68,8 +68,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="6" />
-          <option name="checkDefectNum" value="45" />
+          <option name="checkCount" value="7" />
+          <option name="checkDefectNum" value="46" />
           <option name="criterionDescription" value="建议3.6 减少不必要的空行，保持代码紧凑" />
           <option name="criterionMajorType" value="3.排版格式" />
           <option name="criterionMinorType" value="建议3.6" />
@@ -84,8 +84,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="2" />
-          <option name="checkDefectNum" value="35" />
+          <option name="checkCount" value="6" />
+          <option name="checkDefectNum" value="39" />
           <option name="criterionDescription" value="建议3.5 每行限长120个窄字符" />
           <option name="criterionMajorType" value="3.排版格式" />
           <option name="criterionMinorType" value="建议3.5" />
@@ -100,8 +100,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="2" />
-          <option name="checkDefectNum" value="7" />
+          <option name="checkCount" value="5" />
+          <option name="checkDefectNum" value="16" />
           <option name="criterionDescription" value="建议5.1 不要把方法的入参当做工作变量/临时变量" />
           <option name="criterionMajorType" value="5.方法" />
           <option name="criterionMinorType" value="建议5.1" />
@@ -204,8 +204,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="2" />
-          <option name="checkDefectNum" value="2" />
+          <option name="checkCount" value="4" />
+          <option name="checkDefectNum" value="4" />
           <option name="criterionDescription" value="建议3.10 变量被声明在接近它们首次使用的行" />
           <option name="criterionMajorType" value="3.排版格式" />
           <option name="criterionMinorType" value="建议3.10" />
