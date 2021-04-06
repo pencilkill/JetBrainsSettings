@@ -100,8 +100,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="6" />
-          <option name="checkDefectNum" value="17" />
+          <option name="checkCount" value="7" />
+          <option name="checkDefectNum" value="18" />
           <option name="criterionDescription" value="建议5.1 不要把方法的入参当做工作变量/临时变量" />
           <option name="criterionMajorType" value="5.方法" />
           <option name="criterionMinorType" value="建议5.1" />
