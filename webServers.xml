@@ -2,14 +2,14 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="c8b95acf-c5ab-42ea-aab6-45bd3be1e920" name="L2_Alpha_Mock">
-        <fileTransfer rootFolder="/root" accessType="SFTP" host="100.85.227.83" port="22" sshConfigId="d699eab0-4454-45ab-bebe-9af396f84937" sshConfig="L2_Alpha_Mock">
+        <fileTransfer rootFolder="/root" accessType="SFTP" sshConfigId="d699eab0-4454-45ab-bebe-9af396f84937" sshConfig="L2_Alpha_Mock">
           <advancedOptions>
             <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="a1d91678-5171-47b8-b09e-f320c489fc7a" name="L1_Alpha_Mock">
-        <fileTransfer rootFolder="/root" accessType="SFTP" host="100.85.227.83" port="22" sshConfigId="d699eab0-4454-45ab-bebe-9af396f84937" sshConfig="L2_Alpha_Mock">
+        <fileTransfer rootFolder="/root" accessType="SFTP" sshConfigId="d699eab0-4454-45ab-bebe-9af396f84937" sshConfig="L2_Alpha_Mock">
           <advancedOptions>
             <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
