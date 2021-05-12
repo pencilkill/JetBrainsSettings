@@ -26,7 +26,6 @@
       <mapping ext="0_232" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="gbk" type="PLAIN_TEXT" />
-      <mapping ext="yaml" type="YAML" />
       <removed_mapping ext="yml" type="YAML" />
       <mapping ext="yml" type="YAML_EX" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
