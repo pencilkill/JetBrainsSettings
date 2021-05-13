@@ -31,7 +31,7 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="trcf" value="try {&#10;    $END$&#10;} catch (Throwable e) {&#10;    //&#10;} final {&#10;    //&#10;}" shortcut="SPACE" description="Try catch final statement" toReformat="true" toShortenFQNames="true">
+  <template name="trcf" value="try {&#10;    $END$&#10;} catch (Throwable e) {&#10;    //&#10;} finally {&#10;    //&#10;}" shortcut="SPACE" description="Try catch final statement" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_STATEMENT" value="true" />
     </context>
