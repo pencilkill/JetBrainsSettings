@@ -25,6 +25,7 @@
       <mapping ext="exclude" type="PLAIN_TEXT" />
       <mapping ext="0_232" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="x" type="PLAIN_TEXT" />
       <mapping ext="gbk" type="PLAIN_TEXT" />
       <mapping ext="yml" type="YAML" />
       <removed_mapping ext="yaml" type="YAML" />
