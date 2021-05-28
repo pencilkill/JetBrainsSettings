@@ -20,6 +20,7 @@
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="truststore" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="policy" type="PLAIN_TEXT" />
       <mapping ext="enc" type="PLAIN_TEXT" />
       <mapping ext="exclude" type="PLAIN_TEXT" />
