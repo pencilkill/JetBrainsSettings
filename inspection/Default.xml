@@ -45,6 +45,9 @@
     <option name="ignoreAnonymousInnerClasses" value="false" />
     <option name="superClassString" value="java.awt.Component" />
   </inspection_tool>
+  <inspection_tool class="ShellCheck" enabled="true" level="ERROR" enabled_by_default="true">
+    <shellcheck_settings value="SC2016" />
+  </inspection_tool>
   <inspection_tool class="SpringJavaInjectionPointsAutowiringInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="SqlDialectInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SqlNoDataSourceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
