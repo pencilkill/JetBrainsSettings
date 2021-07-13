@@ -10,6 +10,7 @@
   <action id="HiCode.CodeCheck-FindBugs" />
   <action id="HiCode.CodeStyleCheck.CheckAndAutoFix" />
   <action id="HiCode.Login" />
+  <action id="RecentChanges" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
